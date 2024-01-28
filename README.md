@@ -1,1 +1,1 @@
-# Bullet-Beluga
+Bullet Beluga is a top-down shooter game in the Arctic. You fend off evil penguins, walruses, and monsters as a combat beluga whale and try to survive as long as you can through each wave. You can grab the hearts to gain haelth but you have to be quick because they despawn after only 2.5 seconds. Use WASD or the arrow keys to move and the mouse and right click to aim and shoot. Good luck!!!
